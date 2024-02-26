@@ -1,10 +1,12 @@
 ﻿using FastColoredTextBoxNS;
 using System;
+using System.Collections.Generic;
 using System.Diagnostics;
 using System.Drawing;
 using System.IO;
 using System.Reflection;
 using System.Windows.Forms;
+using WindowsFormsApp1.src;
 
 namespace WindowsFormsApp1
 {
@@ -30,6 +32,7 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
+
 
         private void button1_Click(object sender, EventArgs e) => CreateTab(null);
         private void createToolStripMenuItem_Click(object sender, EventArgs e) => CreateTab(null);
@@ -298,6 +301,12 @@ namespace WindowsFormsApp1
         private void button8_Click(object sender, EventArgs e)
         {
             оПрограммеToolStripMenuItem_Click(sender, e);
+        }
+
+        private void tabControl3_KeyDown(object sender, KeyEventArgs e)
+        {
+            Lexer lexer = new Lexer(CurrentTB.Text, label1);
+            lexer.lexerAnalysis();
         }
     }
 }
