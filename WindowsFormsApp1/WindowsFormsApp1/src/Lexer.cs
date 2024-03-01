@@ -57,7 +57,7 @@ namespace WindowsFormsApp1.src
                     else
                     {
                         Debug.WriteLine(result);
-                        errorLine.Text="На позиции "+pos+" обнаружена ошибка";
+                        errorLine.Text="На позиции "+(pos+1)+" обнаружена ошибка";
                     }
                 }
             }

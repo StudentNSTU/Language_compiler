@@ -85,6 +85,8 @@
       <SubType>Designer</SubType>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <None Include="docs\lab_2.md" />
+    <None Include="docs\lab_1.md" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -150,6 +152,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\image %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="docs\screen\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -11,7 +11,12 @@ namespace WindowsFormsApp1.src
         public Dictionary<string, TokenType> tokenTypeList = new Dictionary<string, TokenType>
         {
             { "NUMBER", new TokenType("NUMBER", "\\d") },
-            { "INT", new TokenType("INT", "int") }
+            //{ "SPACE", new TokenType("SPACE", "[\\s\\t]*") },
+            { "INT", new TokenType("INT", "int") },
+            { "MINUS", new TokenType("MINUS", "\\-") },
+            { "PLUS", new TokenType("PLUS", "\\+") },
+            { "LPAR", new TokenType("LPAR", "\\(") },
+            { "RPAR", new TokenType("RPAR", "\\)") }
         };
     }
 }

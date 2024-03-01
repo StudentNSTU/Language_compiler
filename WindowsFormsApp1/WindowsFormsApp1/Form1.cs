@@ -45,7 +45,7 @@ namespace WindowsFormsApp1
                 tb.Font = new Font("Consolas", 9.75f);
                 tb.Dock = DockStyle.Fill;
                 tb.LeftPadding = 17;
-                tb.Language = Language.Custom;
+                tb.Language = Language.SQL;
 
                 var tab = new TabPage();
                 tab.Text = fileName != null ? Path.GetFileName(fileName) : "Новый документ";
