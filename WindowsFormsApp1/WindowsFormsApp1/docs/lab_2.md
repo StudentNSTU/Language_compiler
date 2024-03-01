@@ -1,4 +1,4 @@
-﻿# LanguageProcessor
+![diag drawio (2)](https://github.com/StudentNSTU/Language_compiler/assets/160150922/c0d356f9-ede7-4103-80df-7a8694759ed9)﻿# LanguageProcessor
 
 ### Примеры работы
 <br>
@@ -8,4 +8,4 @@
 <br/><br/>
 
 ### Диаграмма
-<img src="https://github.com/StudentNSTU/Language_compiler/assets/160150922/1b23fff7-6b2d-40bb-9453-0f2cc209c6ea"/>
+<img src="https://github.com/StudentNSTU/Language_compiler/assets/160150922/2edf5d96-9141-4a0a-8689-19114912f673"/>
