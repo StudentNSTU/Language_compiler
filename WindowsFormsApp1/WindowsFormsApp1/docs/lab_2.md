@@ -1,4 +1,4 @@
-![diag drawio (2)](https://github.com/StudentNSTU/Language_compiler/assets/160150922/c0d356f9-ede7-4103-80df-7a8694759ed9)﻿# LanguageProcessor
+﻿# LanguageProcessor
 
 ### Примеры работы
 <br>
