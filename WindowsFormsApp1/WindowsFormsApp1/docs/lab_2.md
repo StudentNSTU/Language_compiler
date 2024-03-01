@@ -8,5 +8,4 @@
 <br/><br/>
 
 ### Диаграмма
-<img src="https://github.com/StudentNSTU/Language_compiler/assets/160150922/33c5bc66-49fc-412f-959b-c91e3753f24d"/>
-
+<img src="https://github.com/StudentNSTU/Language_compiler/assets/160150922/1b23fff7-6b2d-40bb-9453-0f2cc209c6ea"/>
