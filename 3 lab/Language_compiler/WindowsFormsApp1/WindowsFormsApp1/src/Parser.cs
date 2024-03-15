@@ -91,7 +91,14 @@ namespace WindowsFormsApp1.src
             if(match(tokenTypeList["LPAR"]) != null)
             {
                 var node = this.parseFormula();
-                require(tokenTypeList["RPAR"]);
+                if(node == null)
+                {
+                    return null;
+                }
+                if (require(tokenTypeList["RPAR"])==null)
+                {
+                    return null;
+                }
                 return node;
             }
             else
@@ -103,10 +110,18 @@ namespace WindowsFormsApp1.src
         public ExpressionNode parseFormula()
         {
             var leftNode = parsePerentheses();
+            if(leftNode == null)
+            {
+                return null;
+            }
             var operatorr = match(tokenTypeList["MINUS"], tokenTypeList["PLUS"]);
             while(operatorr != null)
             {
                 var rightNode = parsePerentheses();
+                if(rightNode == null)
+                {
+                    return null;
+                }
                 leftNode = new BinOperationNode(operatorr, leftNode, rightNode);
                 operatorr = match(tokenTypeList["MINUS"], tokenTypeList["PLUS"]);
             }
@@ -140,6 +155,10 @@ namespace WindowsFormsApp1.src
             if(assignOperator != null)
             {
                 var rightFormulaNode = this.parseFormula();
+                if( rightFormulaNode == null)
+                {
+                    return null;
+                }
                 var binaryNode = new BinOperationNode(assignOperator, variableNode, rightFormulaNode);
                 root.addNode(dataType);
                 return binaryNode;

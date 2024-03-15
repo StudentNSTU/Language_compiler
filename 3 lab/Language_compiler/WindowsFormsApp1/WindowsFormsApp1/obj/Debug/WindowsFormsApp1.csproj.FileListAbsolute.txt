@@ -80,3 +80,17 @@ C:\Users\Admin\Source\Repos\Language_compiler\new\Language_compiler\WindowsForms
 C:\Users\Admin\Source\Repos\Language_compiler\new\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
 C:\Users\Admin\Source\Repos\Language_compiler\new\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Admin\Source\Repos\Language_compiler\new\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Admin\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FastColoredTextBox.xml
+C:\Users\Admin\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AboutProgram.resources
+C:\Users\Admin\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Admin\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Admin\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
