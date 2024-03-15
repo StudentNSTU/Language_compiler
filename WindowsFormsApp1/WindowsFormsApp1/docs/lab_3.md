@@ -29,6 +29,7 @@ a constant numeric = 5 ;
 
 ## Тестовый запрос
 `a constant numeric = 5 ;`
-![Пример работы](success.png)
+![screeeeen](https://github.com/StudentNSTU/Language_compiler/assets/160150922/7693cd86-ddf7-48b8-990c-a4dda49da788)
+
 
 
